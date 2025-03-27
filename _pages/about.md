@@ -26,10 +26,19 @@ My research interests include learning sciences and technology, data visualizati
 
 
 # 📖 Education
+
+## Degree Education
 - *2021.09 - present*, Ph.D. candidate in Educational Technology, The University of Hong Kong, Hong Kong SAR. 
 - *2014.09 - 2017.06*, M.E. in Computer Technology, Peking University, Beijing.
 - *2010-09 - 2014.06*, B.A. in English Language and Literature, University of Emergency Management, Hebei. 
+
  
+## Short-term Study
+- *2024.02* Generative AI in Education (Coursera), University of Glasgow 
+- *2022.07* Educational Technology Summer Program, Topic: Learning sciences and technology, Peking University
+- *2022.07* International Visualization Summer School, Topic: Visualization in interdisciplinary areas, Peking University
+- *2021.07* LearnLab Simon Initiative Summer School, Topic: Intelligent tutoring system, Carnegie Mellon University
+- *2015.07* Big Data Technology Summer Program, Topic: Data Mining Techniques, Peking University
 
 
 # 💻 Projects
@@ -85,10 +94,7 @@ My research interests include learning sciences and technology, data visualizati
 - *2024.01* Invited talk at the PKU-HKU Tin Ka Ping Young Scholars: Exchange Program for Learning Sciences Graduate Students, HKU
 - *2023.10* PhD Qulifying Examination at HKU
 - *2022.10* Invited talk at the Tin Ka Ping Foundation (exchange program for research project report), HK
-- *2022.07* Attending the Educational Technology Summer Program, organised by PKU
-- *2022.07* Attending the International Visualization Summer School, organised by PKU
-- *2021.07* Attending the LearnLab Simon Initiative Summer School, organised by Carnegie Mellon University
-- *2015.07* Attending the Big Data Technology Summer Program, organised by PKU
+
 
 # ✅ Services
 - Reviewer of CHI 2025

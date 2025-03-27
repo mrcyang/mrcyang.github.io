@@ -25,14 +25,15 @@ My research interests include learning sciences and technology, data visualizati
 
 # 📖 Education
 - *2021.09 - present*, Ph.D. candidate in Educational Technology, The University of Hong Kong, Hong Kong SAR. 
-- *2014.09 - 2017.06*, M.E. in Computer Technology, Peking University, Beijing. 
+- *2014.09 - 2017.06*, M.E. in Computer Technology, Peking University, Beijing.
+- *2010-09 - 2014.06*, B.A. in English Language and Literature, University of Emergency Management, Hebei. 
  
 
 
 # 💻 Projects
 
 ## Principle Investigator
-- *2023.04 - 2024.04*, Research Asistant, supervised by <a href="https://sds.cuhk.edu.cn/en/teacher/498">Prof. Haizhou Li</a> and <a href="https://wsstriving.github.io">Shuai Wang</a>, The Chinese University of Hong Kong (Shenzhen). [[Project Demo]](../videos/Junjie_xinyi.mp4)
+- *2021.09 - 2025.08*, Enhancing Teacher Reflection and Feedback on Classroom Discourse During Video-Based Professional Development: A Visualization and AI-enabled Approach (Project for the Doctor of Philosophy), supervised by <a href="https://web.edu.hku.hk/faculty-academics/gwchen">Prof. CHEN Gaowei</a> and <a href="https://web.edu.hku.hk/faculty-academics/shihuife">Prof. FENG, Shihui</a>, The University of Hong Kong. <a herf='https://smartviz.cn'>[Project Link]</a>
 
 
 ## Participant
@@ -78,7 +79,7 @@ My research interests include learning sciences and technology, data visualizati
 
 # ✅ Services
 - Reviewer of CHI 2025
-- Reviewer of ISLS 2022, 2023, 2024
+- Reviewer of ISLS 2022, 2023, 2024, 2025
 - [Summary of Speaker-realted tasks][![](https://img.shields.io/github/stars/mrjunjieli/awesome_speaker?style=social&label=Code+Stars)](https://github.com/mrjunjieli/awesome_speaker)
 
 <!-- 

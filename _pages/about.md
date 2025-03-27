@@ -33,11 +33,11 @@ My research interests include learning sciences and technology, data visualizati
 # 💻 Projects
 
 ## Principle Investigator
-- *2021.09 - 2025.08*, Enhancing Teacher Reflection and Feedback on Classroom Discourse During Video-Based Professional Development: A Visualization and AI-enabled Approach (Project for the Doctor of Philosophy), supervised by <a href="https://web.edu.hku.hk/faculty-academics/gwchen">Prof. CHEN Gaowei</a> and <a href="https://web.edu.hku.hk/faculty-academics/shihuife">Prof. FENG, Shihui</a>, The University of Hong Kong. <a herf='https://smartviz.cn'>[Project Link]</a>
+- *2021.09 - 2025.08*, Enhancing Teacher Reflection and Feedback on Classroom Discourse During Video-Based Professional Development: A Visualization and AI-enabled Approach (Project for the Doctor of Philosophy), supervised by <a href="https://web.edu.hku.hk/faculty-academics/gwchen">Prof. CHEN Gaowei</a> and <a href="https://web.edu.hku.hk/faculty-academics/shihuife">Prof. FENG, Shihui</a>, The University of Hong Kong. <a href='https://smartviz.cn'>[Project Link]</a>
 
 
 ## Participant
-- *2022.06 - 2022.12*, supervised by <a href='https://scholar.google.com/citations?user=BcWMSE4AAAAJ&hl=zh-CN'>Dr. Shiliang Zhang</a>, Alibaba DAMO Academy, Hangzhou.
+- *2023.06 - 2025.02*, supervised by <a href='https://scholar.google.com/citations?user=BcWMSE4AAAAJ&hl=zh-CN'>Dr. Shiliang Zhang</a>, Alibaba DAMO Academy, Hangzhou.
 - *2021.11 - 2022.01*, <a href='https://e.huawei.com/cn/products/enterprise-collaboration/ideahub'>ICT</a>, Huawei, Dongguan.
 
 

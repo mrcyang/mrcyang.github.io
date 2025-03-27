@@ -38,7 +38,7 @@ My research interests include learning sciences and technology, data visualizati
 - *2022.07* Educational Technology Summer Program, Topic: Learning sciences and technology, Peking University
 - *2022.07* International Visualization Summer School, Topic: Visualization in interdisciplinary areas, Peking University
 - *2021.07* LearnLab Simon Initiative Summer School, Topic: Intelligent tutoring system, Carnegie Mellon University
-- *2015.07* Big Data Technology Summer Program, Topic: Data Mining Techniques, Peking University
+- *2015.07* Big Data Technology Summer Program, Topic: Data mining techniques, Peking University
 
 
 # 💻 Projects

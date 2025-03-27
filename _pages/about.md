@@ -56,7 +56,7 @@ My research interests include learning sciences and technology, data visualizati
 - Wang, P., Tong, Y., **<u>Yang, C.</u>**, & Chen, G. (2024). Supporting emergency remote teaching: A post-video learning approach. *Educational Technology & Society, 27*(2), 149-164.
 
 ## Before
-- Tong, Y., **<u>Yang, C.</u>**, & Chen, G. (2023). A visual learning analytics approach for knowledge building: Impact on students' epistemic understanding of discourse, productive inquiry and domain knowledge. *British Journal of Educational Technology*.[[demo]](../demo_page/MoMuSE/index.html)
+- Tong, Y., **<u>Yang, C.</u>**, & Chen, G. (2023). A visual learning analytics approach for knowledge building: Impact on students' epistemic understanding of discourse, productive inquiry and domain knowledge. *British Journal of Educational Technology*.
 - Tong, Y., **<u>Yang, C.</u>**, Wang, P., & Chen, G. (2023). Promoting low-achieving students’ epistemic understanding of discourse: A video-based visual learning analytics approach. *Interactive Learning Environments*, 1-17.
 - Tong, Y., **<u>Yang, C.</u>**, Chan, C. K. K., & Chen, G. (2023). Developing Productive Discourse for Knowledge Building: A Blended Approach based on Learning Analytics. *Proceedings of the 17th International Conference of the Learning Sciences (ICLS 2023)*, Montreal, Canada.
 - Wang, P., Chen, G., Tong, Y., & **<u>Yang, C.</u>** (2022). Less could be more: A Case Study of Academically Productive Talk in Online Lessons. *Proceedings of the 13th Global Chinese Conference on Inquiry-based Learning: Innovations and Applications*, Zhejiang, China.
@@ -72,6 +72,7 @@ My research interests include learning sciences and technology, data visualizati
 - *2022* First Class Paper Prize at Global Chinese Conference on Inquiry-based Learning: Innovations and Applications (GCCIL), awarded by Chinese Society for Inquiry Learning
 - *2021* Summer School Scholarship, awarded by Simon Initiative LearnLab, Carnegie Mellon University
 - *2014* Outstanding Graduate Award
+- *2011* National Encouragement Scholarship
 
 
 # 😄 Academic Activities

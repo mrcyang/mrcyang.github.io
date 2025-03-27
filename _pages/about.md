@@ -71,7 +71,7 @@ My research interests include learning sciences and technology, data visualizati
 - *2021-2025* Postgraduate Scholarship, awarded by The University of Hong Kong
 - *2022* First Class Paper Prize at Global Chinese Conference on Inquiry-based Learning: Innovations and Applications (GCCIL), awarded by Chinese Society for Inquiry Learning
 - *2021* Summer School Scholarship, awarded by Simon Initiative LearnLab, Carnegie Mellon University
-- *2014* Outstanding Graduate Award (top 5%) [[pdf]](../pdf/Award_Outstanding_Graduate_Award.pdf)
+- *2014* Outstanding Graduate Award
 
 
 # 😄 Academic Activities
@@ -83,10 +83,21 @@ My research interests include learning sciences and technology, data visualizati
 - 2023.12 International Workshop on Mathematical Issues in Information Sciences 2023, CUHK(SZ). [[Image]](../images/MIIS2023/index.html)
 - 2023.12 CHINA HI-TECH Forum 2023, Shenzhen. [[Image]](../images/HITECH2023/index.html)
 
+- 2024.06 Speaker at the ISLS 2024 Annual Meeting, Buffalo, USA
+- 2024.06 Attending the ISLS 2024 Doctoral Consortium, Buffalo, USA
+- 2024.06 Speaker at the Learning Analytics in Practice (LAP24), online
+- 2024.03 Attending the International Conference on Learning Analytics & Knowledge (LAK24), Kyoto, Japan
+- 2024.01 Speaker at the PKU-HKU Tin Ka Ping Young Scholars: Exchange Program for Learning Sciences Graduate Students, HKU
+- 2022.10 Speaker at the Tin Ka Ping Foundation (exchange program for research project report), HK
+- 2022.07 Attending the Educational Technology Summer Program, organised by PKU
+- 2022.07 Attending the International Visualization Summer School, organised by PKU
+- 2021.07 Attending the LearnLab Simon Initiative Summer School, organised by Carnegie Mellon University
+- 2015.07 Attending the Big Data Technology Summer Program, organised by PKU
+
 # ✅ Services
 - Reviewer of CHI 2025
 - Reviewer of ISLS 2022, 2023, 2024, 2025
-- [Summary of Speaker-realted tasks][![](https://img.shields.io/github/stars/mrjunjieli/awesome_speaker?style=social&label=Code+Stars)](https://github.com/mrjunjieli/awesome_speaker)
+- Reviewer of British Journal of Educational Technology, IEEE Transactions on Learning Technologies
 
 <!-- 
 # 🔥 News

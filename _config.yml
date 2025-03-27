@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Chao Yang, Jeff (楊超)"
-description              : "Ph.D candidate & Project Manager at The University of Hong Kong" "Research Intern at HKU Shenzhen Institute of Research and Innovation"
+title                    : "Chao Yang (Jeff)"
+description              : "Research Intern at HKU Shenzhen Institute of Research and Innovation"
 repository               : "mrcyang/mrcyang.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,9 +21,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Chao Yang"
+  name             : "Chao Yang (Jeff)"
   avatar           : "images/chao.jpg"
-  bio              : ##"[Curriculum Vitae]"
+  bio              : "Ph.D candidate & Project Manager at The University of Hong Kong"
   location         : "Hong Kong SAR, China"
   employer         :
   pubmed           : 

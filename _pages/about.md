@@ -22,6 +22,7 @@ I am currently a Ph.D candidate and project manager in the Faculty of Education 
 
 My research interests include learning sciences and technology, data visualization, classroom dialogue, and teacher professional development. My current research focuses on creating systems for personalized and collaborative learning/teaching using visual learning analytics, and other emerging techniques (e.g., NLP, Generative AI). 
 
+<mark style="background-color: light yellow; color: black;">I am always open to academic collaborations, please drop me an email if you are interested (email: chaoyang@connect.hku.hk)</mark>
 
 # 📖 Education
 - *2021.09 - present*, Ph.D. candidate in Educational Technology, The University of Hong Kong, Hong Kong SAR. 

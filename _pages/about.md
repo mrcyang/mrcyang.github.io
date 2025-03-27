@@ -37,8 +37,10 @@ My research interests include learning sciences and technology, data visualizati
 
 
 ## Participant
-- *2023.06 - 2025.02*, supervised by <a href='https://scholar.google.com/citations?user=BcWMSE4AAAAJ&hl=zh-CN'>Dr. Shiliang Zhang</a>, Alibaba DAMO Academy, Hangzhou.
-- *2021.11 - 2022.01*, <a href='https://e.huawei.com/cn/products/enterprise-collaboration/ideahub'>ICT</a>, Huawei, Dongguan.
+- *2023.06 - 2025.02*, Empowering Teachers with Real-Time Analytics: Effects on Classroom Teaching and Participatory Equity. HKD 150,000. PI: Prof. CHEN Gaowei. HKU Seed Funding, #2203100662 (2023-2025)
+- *2021.01 - 2024.12*, A visualization-enhanced video-based e-learning platform (V2 e-platform) for teachers and students. HKD 3,647,464 (including matching funding from Tin Ka Ping Foundation). PI: Prof. CHEN Gaowei. Innovation and Technology Fund for Better Living (FBL), #ITB/FBL/7026/20/P. (2021-2024)
+- *2022.01 - 2024.10*, A video-visualization online professional development approach for teachers: Promoting productive classroom talk and student learning. HKD 744,245. PI: Prof. CHEN Gaowei. RGC General Research Fund (GRF), #17605221. (2022-2024)
+- *2018.11 - 2021.08*, Analytics-Supported Collaborative Observation of Videos: The effect on student engagement and achievement in mathematics. HKD 740,200. PI: Prof. CHEN Gaowei. RGC General Research Fund (GRF), #17608318. (2018-2021) 
 
 
 # 📝 Publications

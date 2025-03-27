@@ -75,17 +75,17 @@ My research interests include learning sciences and technology, data visualizati
 
 
 # 😄 Academic Activities
-- 2024.06 Invited talk at the [ISLS 2024 Annual Meeting](https://2024.isls.org/), Buffalo, USA
-- 2024.06 Attending the ISLS 2024 Doctoral Consortium, Buffalo, USA
-- 2024.06 Invited talk at the Learning Analytics in Practice (LAP24), online
-- 2024.03 Attending the International Conference on Learning Analytics & Knowledge (LAK24), Kyoto, Japan
-- 2024.01 Invited talk at the PKU-HKU Tin Ka Ping Young Scholars: Exchange Program for Learning Sciences Graduate Students, HKU
-- 2023.10 PhD Qulifying Examination at HKU
-- 2022.10 Invited talk at the Tin Ka Ping Foundation (exchange program for research project report), HK
-- 2022.07 Attending the Educational Technology Summer Program, organised by PKU
-- 2022.07 Attending the International Visualization Summer School, organised by PKU
-- 2021.07 Attending the LearnLab Simon Initiative Summer School, organised by Carnegie Mellon University
-- 2015.07 Attending the Big Data Technology Summer Program, organised by PKU
+- *2024.06* Invited talk at the [ISLS 2024 Annual Meeting](https://2024.isls.org/), Buffalo, USA
+- *2024.06* Attending the ISLS 2024 Doctoral Consortium, Buffalo, USA
+- *2024.06* Invited talk at the Learning Analytics in Practice (LAP24), online
+- *2024.03* Attending the International Conference on Learning Analytics & Knowledge (LAK24), Kyoto, Japan
+- *2024.01* Invited talk at the PKU-HKU Tin Ka Ping Young Scholars: Exchange Program for Learning Sciences Graduate Students, HKU
+- *2023.10* PhD Qulifying Examination at HKU
+- *2022.10* Invited talk at the Tin Ka Ping Foundation (exchange program for research project report), HK
+- *2022.07* Attending the Educational Technology Summer Program, organised by PKU
+- *2022.07* Attending the International Visualization Summer School, organised by PKU
+- *2021.07* Attending the LearnLab Simon Initiative Summer School, organised by Carnegie Mellon University
+- *2015.07* Attending the Big Data Technology Summer Program, organised by PKU
 
 # ✅ Services
 - Reviewer of CHI 2025

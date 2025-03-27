@@ -93,7 +93,7 @@ My research interests include learning sciences and technology, data visualizati
 - *2024.03* Attending the International Conference on Learning Analytics & Knowledge (LAK24), Kyoto, Japan
 - *2024.01* Invited talk at the PKU-HKU Tin Ka Ping Young Scholars: Exchange Program for Learning Sciences Graduate Students, HKU
 - *2023.10* PhD Qulifying Examination at HKU
-- *2022.10* Invited talk at the Tin Ka Ping Foundation (exchange program for research project report), HK
+- *2022.10* Invited talk at the Tin Ka Ping Foundation (research project report), HK
 
 
 # ✅ Services

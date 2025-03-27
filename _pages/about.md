@@ -43,6 +43,10 @@ My research interests include learning sciences and technology, data visualizati
 
 # 📝 Publications
 
+## 2025 
+- Wang, P., **<u>Yang, C.</u>**, Tong, Y., & Chen, G. (2025). Discursive engagement for intersubjectivity: Investigating the verbal–visual relationship of productive classroom talk in synchronous online lessons. *Learning, Culture and Social Interaction, 51*, 100892.
+- **<u>Yang, C.</u>**, Wang, D., & Chen, G. (2025). Chat-LAD: Enhancing Teacher Understanding of Learning Analytics Dashboard for Classroom Discourse with AI-Empowered Explanations. (submitted to L@S 2025)
+
 ## 2024 
 - **<u>Yang, C.</u>**, & Chen, G. (2024). Enhancing Teacher Reflection and Feedback on Classroom Discourse During Video-Based Professional Development: A Visualization Approach (Doctoral Consortium). *Proceedings of the ISLS Annual Meeting 2024*, Buffalo, USA.
 - **<u>Yang, C.</u>**, & Chen, G. (2024). TRFlens: A Visual Learning Analytical Tool to Support Teacher Video-Based Reflection and Feedback on Classroom Dialogue. *Proceedings of the ISLS Annual Meeting 2024*, Buffalo, USA.

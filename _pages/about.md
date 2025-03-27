@@ -75,20 +75,13 @@ My research interests include learning sciences and technology, data visualizati
 
 
 # 😄 Academic Activities
-- 2024.11. 深圳大湾区学术论坛 [[Image]](../images/haizhou_birthday/index.html)
-- 2024.08 [PolyU Research Student Conference](https://events.polyu.edu.hk/prsc2024/home) [[Image]](../images/PRSC/index.html)
-- 2024.04 Attending ICASSP 2024, Korea. [[Image]](../images/icassp2024/index.html)
-- 2024.03 ICASSP 2024 preview, organised by <a href='https://sds.cuhk.edu.cn/en/teacher/641'>Dr. Zhizheng WU </a>, Shenzhen. [[Image]](../images/icassp2024_preview/index.html)
-- 2023.12 International Doctoral Forum 2023, CUHK. [[Image]](../images/CUHK2023/index.html)
-- 2023.12 International Workshop on Mathematical Issues in Information Sciences 2023, CUHK(SZ). [[Image]](../images/MIIS2023/index.html)
-- 2023.12 CHINA HI-TECH Forum 2023, Shenzhen. [[Image]](../images/HITECH2023/index.html)
-
-- 2024.06 Speaker at the [ISLS 2024 Annual Meeting](https://2024.isls.org/), Buffalo, USA
+- 2024.06 Invited talk at the [ISLS 2024 Annual Meeting](https://2024.isls.org/), Buffalo, USA
 - 2024.06 Attending the ISLS 2024 Doctoral Consortium, Buffalo, USA
-- 2024.06 Speaker at the Learning Analytics in Practice (LAP24), online
+- 2024.06 Invited talk at the Learning Analytics in Practice (LAP24), online
 - 2024.03 Attending the International Conference on Learning Analytics & Knowledge (LAK24), Kyoto, Japan
-- 2024.01 Speaker at the PKU-HKU Tin Ka Ping Young Scholars: Exchange Program for Learning Sciences Graduate Students, HKU
-- 2022.10 Speaker at the Tin Ka Ping Foundation (exchange program for research project report), HK
+- 2024.01 Invited talk at the PKU-HKU Tin Ka Ping Young Scholars: Exchange Program for Learning Sciences Graduate Students, HKU
+- 2023.10 PhD Qulifying Examination at HKU
+- 2022.10 Invited talk at the Tin Ka Ping Foundation (exchange program for research project report), HK
 - 2022.07 Attending the Educational Technology Summer Program, organised by PKU
 - 2022.07 Attending the International Visualization Summer School, organised by PKU
 - 2021.07 Attending the LearnLab Simon Initiative Summer School, organised by Carnegie Mellon University

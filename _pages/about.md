@@ -83,7 +83,7 @@ My research interests include learning sciences and technology, data visualizati
 - 2023.12 International Workshop on Mathematical Issues in Information Sciences 2023, CUHK(SZ). [[Image]](../images/MIIS2023/index.html)
 - 2023.12 CHINA HI-TECH Forum 2023, Shenzhen. [[Image]](../images/HITECH2023/index.html)
 
-- 2024.06 Speaker at the ISLS 2024 Annual Meeting, Buffalo, USA
+- 2024.06 Speaker at the [ISLS 2024 Annual Meeting](https://2024.isls.org/), Buffalo, USA
 - 2024.06 Attending the ISLS 2024 Doctoral Consortium, Buffalo, USA
 - 2024.06 Speaker at the Learning Analytics in Practice (LAP24), online
 - 2024.03 Attending the International Conference on Learning Analytics & Knowledge (LAK24), Kyoto, Japan

@@ -57,8 +57,8 @@ My research interests include learning sciences and technology, data visualizati
 # 📝 Publications
 
 ## 2025 
-- **<u>Yang, C.</u>**, Wang, D., & Chen, G. (2025). Chat-LAD: Enhancing Teacher Understanding of Learning Analytics Dashboard with AI-Empowered Explanations. (submitted to L@S 2025)
-- Wang, D., **<u>Yang, C.</u>**, & Chen, G. (2025). Using Vision Language Models to Detect Students' Academic Emotion through Facial Expressions. (submitted to EDM 2025)
+- **<u>Yang, C.</u>**, Wang, D., & Chen, G. (2025). Chat-LAD: Enhancing Teacher Understanding of Learning Analytics Dashboard with AI- Empowered Explanations. In Proceedings of the Twelfth ACM Conference on Learning @ Scale (L@S’25), July 21–23, 2025, Palermo, Italy. ACM, New York, NY, USA.
+- Wang, D., **<u>Yang, C.</u>**, & Chen, G. (2025). Using LoRA to Fine- tune Large Language Models for Analyzing Collaborative Argumentation in Classrooms. In Proceedings of the Twelfth ACM Conference on Learning @ Scale (L@S’25), July 21–23, 2025, Palermo, Italy. ACM, New York, NY, USA 
 - Wang, P., **<u>Yang, C.</u>**, Tong, Y., & Chen, G. (2025). Discursive engagement for intersubjectivity: Investigating the verbal–visual relationship of productive classroom talk in synchronous online lessons. *Learning, Culture and Social Interaction, 51*, 100892.
 
 ## 2024 
